@@ -112,24 +112,6 @@ Data visualization for the dataset was done using Microsoft Power BI Desktop:
 |![2022 T20 Cricket World Cup Dashboard- Best Final 11-8](https://user-images.githubusercontent.com/118357991/226160404-653cf126-519c-426f-b715-a5041535e8d7.png)|
 
 
-## Tools, Software and Libraries :
-
-1.Jupyter Notebook
-
-2.Python
-
-3.Pandas
-
-4.Webscraping
-
-5.Beautifual Soup
-
-6.Power Query Editor
-
-7.Power BI
-
-8.Anaconda Envirement
-
 ## References
 
 https://codebasics.io/courses
@@ -142,4 +124,4 @@ https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2022-23-1298134/nami
 
 https://brightdata.com/cp/data_collector/collectors/c_lefxe7xf2rj3m5b1b3/code?draft_id=lefxeciy8d6v38d3d
 
-## THANK YOU...
+## THANK YOU...😊
