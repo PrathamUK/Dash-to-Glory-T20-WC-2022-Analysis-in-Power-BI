@@ -1,17 +1,4 @@
 # ICC Men's T20-Cricket World Cup 2022 Data Analytics
-![ICC mEN'S t20](https://user-images.githubusercontent.com/118357991/226156747-e978c29f-7dde-40e1-b47f-dc45255cc5af.png)
-
-## Table of Contents :
-
-- [Problem Statement](https://github.com/yogeshkasar778/PowerBI_Project-ICCMen-s_T20_Cricket_World_Cup_2022_data_analytics#problem-statement-)
-- [Datasource](https://github.com/yogeshkasar778/PowerBI_Project-ICCMen-s_T20_Cricket_World_Cup_2022_data_analytics#datasource-)
-- [Data Collection](https://github.com/yogeshkasar778/PowerBI_Project-ICCMen-s_T20_Cricket_World_Cup_2022_data_analytics#data-collection)
-- [Data Transformation](https://github.com/yogeshkasar778/PowerBI_Project-ICCMen-s_T20_Cricket_World_Cup_2022_data_analytics#data-transformation)
-- [Data Modelling](https://github.com/yogeshkasar778/PowerBI_Project-ICCMen-s_T20_Cricket_World_Cup_2022_data_analytics#data-modelling)
-- [Data Analysis Expression (DAX)](https://github.com/yogeshkasar778/PowerBI_Project-ICCMen-s_T20_Cricket_World_Cup_2022_data_analytics#data-analysis-expression-dax)
-- [Report](https://github.com/yogeshkasar778/PowerBI_Project-ICCMen-s_T20_Cricket_World_Cup_2022_data_analytics#dashboard)
-- [Tools, Software and Libraries](https://github.com/yogeshkasar778/PowerBI_Project-ICCMen-s_T20_Cricket_World_Cup_2022_data_analytics#tools-software-and-libraries-)
-- [References](https://github.com/yogeshkasar778/PowerBI_Project-ICCMen-s_T20_Cricket_World_Cup_2022_data_analytics#references)
 
 ## Problem Statement :
 
